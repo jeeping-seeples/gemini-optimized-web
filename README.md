@@ -1,4 +1,4 @@
-# opt-gemini-web
+# gemini-optimized-web
 
 Local optimization layer for `gemini.google.com` (and related Google web
 properties) on this machine. Goal: reduce load time, main-thread jank, and
